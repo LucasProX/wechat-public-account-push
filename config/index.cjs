@@ -15,6 +15,9 @@ const USER_CONFIG = {
 
   PROVINCE: '湖南',
   CITY: '长沙',
+  
+  PROVINCE2: '陕西',
+  CITY2: '西安',
 
   USERS: [
     {
@@ -41,9 +44,9 @@ const USER_CONFIG = {
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
-        // 相遇的日子
+        // 相识的日子
         { keyword: 'meet_day', date: '2022-04-30' },
-        // 结婚纪念日
+        // 恋爱纪念日
         { keyword: 'love_day', date: '2022-07-29' },
       ],
     },
